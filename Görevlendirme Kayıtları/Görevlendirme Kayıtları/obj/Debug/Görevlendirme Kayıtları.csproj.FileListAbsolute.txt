@@ -1,0 +1,9 @@
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\Görevlendirme Kayıtları\Görevlendirme Kayıtları\bin\Debug\Görevlendirme Kayıtları.exe.config
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\Görevlendirme Kayıtları\Görevlendirme Kayıtları\obj\Debug\Görevlendirme Kayıtları.csprojResolveAssemblyReference.cache
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\Görevlendirme Kayıtları\Görevlendirme Kayıtları\obj\Debug\Görevlendirme_Kayıtları.Form1.resources
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\Görevlendirme Kayıtları\Görevlendirme Kayıtları\obj\Debug\Görevlendirme_Kayıtları.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\Görevlendirme Kayıtları\Görevlendirme Kayıtları\obj\Debug\Görevlendirme Kayıtları.csproj.GenerateResource.Cache
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\Görevlendirme Kayıtları\Görevlendirme Kayıtları\bin\Debug\Görevlendirme Kayıtları.exe
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\Görevlendirme Kayıtları\Görevlendirme Kayıtları\bin\Debug\Görevlendirme Kayıtları.pdb
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\Görevlendirme Kayıtları\Görevlendirme Kayıtları\obj\Debug\Görevlendirme Kayıtları.exe
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\Görevlendirme Kayıtları\Görevlendirme Kayıtları\obj\Debug\Görevlendirme Kayıtları.pdb
